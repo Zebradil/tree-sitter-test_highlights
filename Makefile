@@ -3,7 +3,7 @@ $(error Windows is not supported)
 endif
 
 LANGUAGE_NAME := tree-sitter-test-highlights
-HOMEPAGE_URL := https://github.com/tree-sitter/tree-sitter-test_highlights
+HOMEPAGE_URL := https://github.com/zebradil/tree-sitter-test_highlights
 VERSION := 0.1.0
 
 # repository
