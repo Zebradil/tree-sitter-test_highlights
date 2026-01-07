@@ -5,7 +5,7 @@ This repository provides a Test Highlights grammar for [tree-sitter](https://tre
 It is useful for visualizing all pre-defined highlight groups in Neovim.
 
 <p align="center">
-  <a href="test-hl.png" target="_blank"><img src="test-hl.png" alt="Test Highlights Screenshot" width="800" style="border: 1px solid #000; max-width: 100%;" /></a>
+  <a href="test-hl.png" target="_blank"><img src="test-hl.png" alt="Test Highlights Screenshot" width="800" style="max-width: 100%;" /></a>
 </p>
 
 ## Installation
