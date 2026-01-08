@@ -10,18 +10,13 @@ It is useful for visualizing all pre-defined highlight groups in Neovim.
 
 ## Installation
 
-This particular configuration is for AstroNvim4,
-but it should be similar for other Neovim setups that support Tree-Sitter.
-
-When in doubt, refer to the [nvim-treesitter documentation](https://github.com/nvim-treesitter/nvim-treesitter#adding-custom-languages).
+Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
-return {
-  {
-    "zebradil/tree-sitter-test_highlights",
-    dependencies = { "nvim-treesitter/nvim-treesitter" },
-    ft = { "test_highlights" },
-  },
+{
+  "zebradil/tree-sitter-test_highlights",
+  dependencies = { "nvim-treesitter/nvim-treesitter" },
+  ft = { "test_highlights" },
 }
 ```
 
